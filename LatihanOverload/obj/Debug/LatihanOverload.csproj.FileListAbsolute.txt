@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\bin\Debug\LatihanOverload.exe.config
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\bin\Debug\LatihanOverload.exe
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\bin\Debug\LatihanOverload.pdb
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\obj\Debug\LatihanOverload.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\obj\Debug\LatihanOverload.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\obj\Debug\LatihanOverload.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\obj\Debug\LatihanOverload.exe
+C:\Users\ASUS\source\repos\LatihanOverload\LatihanOverload\obj\Debug\LatihanOverload.pdb
